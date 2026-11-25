@@ -31,7 +31,6 @@
 
 ### 🚀 Featured Projects
 
-- **[Koshur-Mart](https://github.com/S3CLYPH/Koshur-Mart)** — Koshur Mart — The Essence of Kashmir | Authentic Kashmiri saffron, pashmina, kahwa & dry fruits
 - **[hospital-appointment](https://github.com/S3CLYPH/hospital-appointment)** — Hospital appointment website built with semantic, accessible HTML, CSS styling and JavaScript form validation
 - **[netra](https://github.com/S3CLYPH/netra)** — Netra — a web project built with HTML & CSS
 
