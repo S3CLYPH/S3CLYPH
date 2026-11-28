@@ -31,6 +31,7 @@
 
 ### 🚀 Featured Projects
 
+- **[CityPulse](https://github.com/S3CLYPH/CityPulse)** — Java console app for citizen billing: property tax, water charges, senior rebate, file records & analytics dashboard (Modules 1-6, OOP, file I/O, collections & streams).
 - **[hospital-appointment](https://github.com/S3CLYPH/hospital-appointment)** — Hospital appointment website built with semantic, accessible HTML, CSS styling and JavaScript form validation
 - **[netra](https://github.com/S3CLYPH/netra)** — Netra — a web project built with HTML & CSS
 
